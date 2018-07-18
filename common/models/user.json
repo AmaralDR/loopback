@@ -1,5 +1,7 @@
 {
   "name": "User",
+  "realmRequired": true,
+  "realmDelimiter": ":",
   "properties": {
     "realm": {
       "type": "string"
